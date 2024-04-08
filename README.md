@@ -18,8 +18,10 @@ Community detection is a fundamental task in network analysis, aiming to identif
 
 ## Datasets
 
-- **Facebook Dataset**: This dataset consists of friendship connections between users of a Facebook network is [here](https://snap.stanford.edu/data/ego-Facebook.html).
-- **Bitcoin Dataset**: This dataset contains transaction data within the Bitcoin network is [here](https://snap.stanford.edu/data/soc-sign-bitcoin-otc.html).
+- **Facebook Dataset**
+  - This dataset consists of friendship connections between users of a Facebook network is [here](https://snap.stanford.edu/data/ego-Facebook.html).
+- **Bitcoin Dataset**
+  - This dataset contains transaction data within the Bitcoin network is [here](https://snap.stanford.edu/data/soc-sign-bitcoin-otc.html).
 
 ## Algorithms
 
